@@ -1,0 +1,11 @@
+Qno 1.Explain what JavaScript is and its role in web development.
+ sol: JavaScript (often abbreviated as JS) is a programming language that adds interactivity to web pages.
+      Unlike HTML, which defines the structure of a web page, and CSS, which styles the presentation,
+      JavaScript enables features that react to user input and dynamically alter the content of a web page.
+	 its role in web development:
+	* Making web pages interactive.
+	* Dynamic content updates.
+	* Animations and other visual effects.
+	* Working with multimedia.
+
+	 JavaScript breathes life into web pages, transforming them from static documents into dynamic and interactive applications. It's a fundamental part of modern web development and essential for creating a user-friendly and engaging web experience.

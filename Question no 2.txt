@@ -1,0 +1,50 @@
+Qno 2.Describe the categorization of operators in JavaScript based on their functionality. Provide examples for each category.
+ sol :Operators in JavaScript can be categorized based on their functionality. Here are the main categories along with examples for each:
+	Arithmetic Operators:
+	These operators are used to perform arithmetic operations on numerical values.	
+	Examples:
+		Addition: + (e.g., 3 + 5)
+		Subtraction: - (e.g., 10 - 4)
+		Multiplication: * (e.g., 6 * 2)
+		Division: / (e.g., 8 / 2)
+		Modulus (Remainder): % (e.g., 7 % 3)
+	Assignment Operators:
+	These operators are used to assign values to variables.
+	Examples:
+		Assignment: = (e.g., var x = 10;)
+		Addition Assignment: += (e.g., x += 5; // Equivalent to x = x + 5)
+		Subtraction Assignment: -= (e.g., x -= 3; // Equivalent to x = x - 3)
+		Multiplication Assignment: *= (e.g., x *= 2; // Equivalent to x = x * 2)
+	Comparison Operators:
+	These operators are used to compare values and return a boolean result.
+	Examples:
+		Equal to: == (e.g., 5 == 5)
+		Strict equal to: === (e.g., 5 === '5')
+		Not equal to: != (e.g., 6 != 4)
+		Greater than: > (e.g., 10 > 7)
+		Less than: < (e.g., 3 < 8)
+		Greater than or equal to: >= (e.g., 5 >= 3)
+		Less than or equal to: <= (e.g., 7 <= 9)
+	Logical Operators:
+	These operators are used to perform logical operations on boolean values.
+	Examples:
+		Logical AND: && (e.g., true && false)
+		Logical OR: || (e.g., true || false)
+		Logical NOT: ! (e.g., !true)
+	Unary Operators:
+	These operators act on a single operand.
+	Examples:
+		Unary Plus: + (e.g., +5)
+		Unary Negation: - (e.g., -7)
+		Increment: ++ (e.g., x++)
+		Decrement: -- (e.g., y--)
+	Bitwise Operators:
+	These operators perform bitwise operations on integer values.	
+	Examples:
+		Bitwise AND: & (e.g., 5 & 3)
+		Bitwise OR: | (e.g., 6 | 2)
+		Bitwise XOR: ^ (e.g., 3 ^ 2)
+		Bitwise NOT: ~ (e.g., ~5)
+		Left Shift: << (e.g., 4 << 1)
+		Right Shift: >> (e.g., 8 >> 2)
+ 
